@@ -17,5 +17,5 @@ def key_for_min_value(hash)
     min_k = key if min_k == nil
     min_v = value if min_v == nil
   end
-  min_key
+  min_k
 end
